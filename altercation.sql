@@ -1,0 +1,1 @@
+UPDATE friends SET altercation=0
